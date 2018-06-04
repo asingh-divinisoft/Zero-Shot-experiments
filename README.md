@@ -2,7 +2,7 @@
 DIH Project
 
 ## Created Model for training
-Only layer specific learning rate is remaining to be added!
+Model completed.
 
 ## Processed Annotation Files for seen and unseen classes
 Feature Extraction need 8 hours for MSCOCO (6 lakh objects).
