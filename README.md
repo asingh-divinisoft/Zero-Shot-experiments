@@ -5,3 +5,7 @@ DIH Project
 Only layer specific learning rate is remaining to be added!
 
 ## Processed Annotation Files for seen and unseen classes
+Feature Extraction need 8 hours for MSCOCO (6 lakh objects).
+VG has 10 lakh objects.
+
+## Working on background boxes
