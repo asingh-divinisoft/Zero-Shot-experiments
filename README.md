@@ -1,13 +1,12 @@
 # Zero-Shot-Object-Detection-Segmentation
 DIH Project
 
-## Created Model for training
+#### Created Model for training
 Model completed.
 
-## Processed Annotation Files for seen and unseen classes
+#### Processed Annotation Files for seen and unseen classes
 
-## Feature Extraction took 8 hours for MSCOCO (6 lakh objects).
-## And 12 hours for VG (10 lakh objects).
+#### Feature Extraction took 8 hours for MSCOCO (6 lakh objects). And 12 hours for VG (10 lakh objects).
 
 ### Need to read implementation details from the paper https://arxiv.org/pdf/1804.04340.pdf.
 ### Need to work on Edge Boxes
